@@ -18,12 +18,17 @@
             <tr>
                 <td>Netflix Login Page</td>
                 <td><a href="https://github.com/sakkarakaya/01-netflix-webpage.git">Repo details..</a></td>
-                <td><img src="https://user-images.githubusercontent.com/65809527/101241589-b9fb2c80-36f7-11eb-9767-21b21e73a674.gif" alt="gif"  style="height:500px"></td>
+                <td><img src="https://www.logitheque.com/de/wp-content/uploads/sites/5/2019/07/netflix-image.jpg" alt="netflix-img"  style="height:500px"></td>
             </tr>
             <tr>
                 <td>Responsive Web Design</td>
                 <td><a href="https://github.com/sakkarakaya/04-prowebsite.git">Repo details..</a></td>
-                <td><img src="https://user-images.githubusercontent.com/65809527/100656799-8f068680-334d-11eb-8ed5-00cde8bd486a.gif" alt="gif"  style="height:500px"></td>
+                <td><img src="https://user-images.githubusercontent.com/65809527/101239987-6e8f5100-36ec-11eb-8394-5ce8b6741002.gif" alt="gif"  style="height:500px"></td>
+            </tr>
+            <tr>
+                <td>Google Landing Page</td>
+                <td><a href="https://github.com/sakkarakaya/google-landing-page.git">Repo details..</a></td>
+                <td><img src="https://bayahaber.files.wordpress.com/2020/03/browser_ntp.png" alt="google-img"  style="height:500px"></td>
             </tr>
         </tbody>
     </table>
