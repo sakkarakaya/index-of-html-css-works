@@ -23,7 +23,7 @@
             <tr>
                 <td>Responsive Web Design</td>
                 <td><a href="https://github.com/sakkarakaya/04-prowebsite.git">Repo details..</a></td>
-                <td><img src="https://user-images.githubusercontent.com/65809527/101239987-6e8f5100-36ec-11eb-8394-5ce8b6741002.gif" alt="gif"  style="height:500px"></td>
+                <td><img src="https://user-images.githubusercontent.com/57039414/116482111-c5a4e680-a884-11eb-9fcb-0f32d082cb0f.png" alt="gif"  style="height:500px"></td>
             </tr>
             <tr>
                 <td>Google Landing Page</td>
